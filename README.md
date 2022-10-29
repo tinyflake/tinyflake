@@ -10,3 +10,5 @@ vue swiper demo----https://github.surmon.me/vue-awesome-swiper/
 
 vue swiper of official  API ----https://www.swiper.com.cn/api/index.html
 
+在线 vscode 编辑器 ----https://github.com/convergencelabs/monaco-collab-ext
+
